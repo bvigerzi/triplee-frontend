@@ -10,6 +10,7 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
+    "prebuild": "tsx ./scripts/remove_hidden_articles.ts",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
@@ -52,15 +53,20 @@
     "react-spring": "^9.7.1",
     "react-typography": "^0.16.23",
     "styled-components": "^6.0.0-rc.1",
-    "ts-node": "^10.9.1",
     "typography": "^0.16.21"
   },
   "devDependencies": {
+    "@types/is-ci": "^3.0.0",
     "@types/node": "^18.16.5",
     "@types/react": "^18.2.5",
     "@types/react-dom": "^18.2.4",
     "@types/react-helmet": "^6.1.6",
     "@types/typography": "^0.16.4",
+    "glob": "^10.2.7",
+    "is-ci": "^3.0.1",
+    "loglevel": "^1.8.1",
+    "ts-node": "^10.9.1",
+    "tsx": "^3.12.7",
     "typescript": "^5.0.4"
   }
 }
