@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://triplee.tech/sitemap.xml
+Sitemap: https://www.triplee.tech/sitemap-index.xml
