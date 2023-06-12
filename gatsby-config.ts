@@ -6,7 +6,7 @@ const config: GatsbyConfig = {
     author: `Triple E`,
     description: `Long form technical breakdowns of computer science topics ranging from systems programming, cyber security, computer hardware and more.`,
     byline: `Taking the byte out of eight bits.`,
-    siteUrl: `https://triplee.tech`,
+    siteUrl: `https://www.triplee.tech`,
   },
   // More easily incorporate content into your pages through automatic TypeScript type generation and better GraphQL IntelliSense.
   // If you use VSCode you can also use the GraphQL plugin
