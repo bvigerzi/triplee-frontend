@@ -62,7 +62,7 @@
     "@types/react-dom": "^18.2.5",
     "@types/react-helmet": "^6.1.6",
     "@types/typography": "^0.16.4",
-    "glob": "^10.3.0",
+    "glob": "^10.3.3",
     "is-ci": "^3.0.1",
     "loglevel": "^1.8.1",
     "ts-node": "^10.9.1",
