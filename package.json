@@ -53,7 +53,7 @@
     "react-spring": "^9.7.2",
     "react-typography": "^0.16.23",
     "styled-components": "^6.0.4",
-    "typography": "^0.16.21"
+    "typography": "^0.16.24"
   },
   "devDependencies": {
     "@types/is-ci": "^3.0.0",
