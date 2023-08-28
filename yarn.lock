@@ -1335,11 +1335,6 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
-"@fortawesome/fontawesome-common-types@6.4.0":
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.4.0.tgz#88da2b70d6ca18aaa6ed3687832e11f39e80624b"
-  integrity sha512-HNii132xfomg5QVZw0HwXXpN22s7VBHQBv9CeOu9tfJnhsWQNd2lmTNi8CSrnw5B+5YOmzu1UoPAyxaXsJ6RgQ==
-
 "@fortawesome/fontawesome-common-types@6.4.2":
   version "6.4.2"
   resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-common-types/-/fontawesome-common-types-6.4.2.tgz#1766039cad33f8ad87f9467b98e0d18fbc8f01c5"
@@ -6183,10 +6178,10 @@ gatsby-plugin-sharp@^5.11.0:
     semver "^7.5.1"
     sharp "^0.32.1"
 
-gatsby-plugin-sitemap@^6.11.0:
-  version "6.11.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-6.11.0.tgz#c58ad3601f8276a2f3fcd5d404651e0da421b1a8"
-  integrity sha512-YpCnENEsmqcQ6s7OXKvj402i7ODHpmr4sNXxIf2ecT7EpL9JiRhmCwYsg0WGaAEC+QG1BggFuMDC9rAqoRcYng==
+gatsby-plugin-sitemap@^6.12.0:
+  version "6.12.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sitemap/-/gatsby-plugin-sitemap-6.12.0.tgz#d56fd4b84b53b12711f1b5a9eb2740a449b70515"
+  integrity sha512-wD8c++ubDOdYHND+w1nAkdpNGc9Tb0VLZua8PeVSSAFgqgQzgm+LXfuW2yg5wNUOkYG9Qc9HlkORg+oyzk3xTQ==
   dependencies:
     "@babel/runtime" "^7.20.13"
     common-tags "^1.8.2"
