@@ -1181,21 +1181,21 @@
     "@esbuild-kit/core-utils" "^3.0.0"
     get-tsconfig "^4.4.0"
 
-"@esbuild-kit/core-utils@^3.0.0", "@esbuild-kit/core-utils@^3.2.2":
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/@esbuild-kit/core-utils/-/core-utils-3.3.0.tgz#2d8cfed79a34f71b07b0c91f634655d81fca72ab"
-  integrity sha512-jTtSvVpr5ygNXyPXf9IBbCrKQ0uckq6vWkcGfy1fEr9KjkKdnFn4kFAGjpqZDZim1wsTwh/Be+lhAUemEmxEYA==
+"@esbuild-kit/core-utils@^3.0.0", "@esbuild-kit/core-utils@^3.3.0", "@esbuild-kit/core-utils@^3.3.2":
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/@esbuild-kit/core-utils/-/core-utils-3.3.2.tgz#186b6598a5066f0413471d7c4d45828e399ba96c"
+  integrity sha512-sPRAnw9CdSsRmEtnsl2WXWdyquogVpB3yZ3dgwJfe8zrOzTsV7cJvmwrKVa+0ma5BoiGJ+BoqkMvawbayKUsqQ==
   dependencies:
     esbuild "~0.18.20"
     source-map-support "^0.5.21"
 
-"@esbuild-kit/esm-loader@^2.5.5":
-  version "2.5.5"
-  resolved "https://registry.yarnpkg.com/@esbuild-kit/esm-loader/-/esm-loader-2.5.5.tgz#b82da14fcee3fc1d219869756c06f43f67d1ca71"
-  integrity sha512-Qwfvj/qoPbClxCRNuac1Du01r9gvNOT+pMYtJDapfB1eoGN1YlJ1BixLyL9WVENRx5RXgNLdfYdx/CuswlGhMw==
+"@esbuild-kit/esm-loader@^2.6.3":
+  version "2.6.5"
+  resolved "https://registry.yarnpkg.com/@esbuild-kit/esm-loader/-/esm-loader-2.6.5.tgz#6eedee46095d7d13b1efc381e2211ed1c60e64ea"
+  integrity sha512-FxEMIkJKnodyA1OaCUoEvbYRkoZlLZ4d/eXFu9Fh8CbBBgP5EmZxrfTRyN0qpXZ4vOvqnE5YdRdcrmUUXuU+dA==
   dependencies:
-    "@esbuild-kit/core-utils" "^3.0.0"
-    get-tsconfig "^4.4.0"
+    "@esbuild-kit/core-utils" "^3.3.2"
+    get-tsconfig "^4.7.0"
 
 "@esbuild/android-arm64@0.18.20":
   version "0.18.20"
@@ -6649,6 +6649,13 @@ get-tsconfig@^4.4.0:
   dependencies:
     resolve-pkg-maps "^1.0.0"
 
+get-tsconfig@^4.7.0:
+  version "4.7.0"
+  resolved "https://registry.yarnpkg.com/get-tsconfig/-/get-tsconfig-4.7.0.tgz#06ce112a1463e93196aa90320c35df5039147e34"
+  integrity sha512-pmjiZ7xtB8URYm74PlGJozDNyhvsVLUcpBa8DZBG3bWHwaHa9bPiRpiSfovw+fjhwONSCWKRyk+JQHEGZmMrzw==
+  dependencies:
+    resolve-pkg-maps "^1.0.0"
+
 get-uri@3:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/get-uri/-/get-uri-3.0.2.tgz#f0ef1356faabc70e1f9404fa3b66b2ba9bfc725c"
@@ -11744,14 +11751,14 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-tsx@^3.12.8:
-  version "3.12.8"
-  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.12.8.tgz#e9ec95c6b116e28f0187467f839029a3ce17a851"
-  integrity sha512-Lt9KYaRGF023tlLInPj8rgHwsZU8qWLBj4iRXNWxTfjIkU7canGL806AqKear1j722plHuiYNcL2ZCo6uS9UJA==
+tsx@^3.12.10:
+  version "3.12.10"
+  resolved "https://registry.yarnpkg.com/tsx/-/tsx-3.12.10.tgz#073b7c8368c61dd6b816523eb203e6c8099c27ec"
+  integrity sha512-2+46h4xvUt1aLDNvk5YBT8Uzw+b7BolGbn7iSMucYqCXZiDc+1IMghLVdw8kKjING32JFOeO+Am9posvjkeclA==
   dependencies:
     "@esbuild-kit/cjs-loader" "^2.4.2"
-    "@esbuild-kit/core-utils" "^3.2.2"
-    "@esbuild-kit/esm-loader" "^2.5.5"
+    "@esbuild-kit/core-utils" "^3.3.0"
+    "@esbuild-kit/esm-loader" "^2.6.3"
   optionalDependencies:
     fsevents "~2.3.2"
 
