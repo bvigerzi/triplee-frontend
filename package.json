@@ -50,7 +50,7 @@
     "react-div-100vh": "^0.7.0",
     "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0",
-    "react-spring": "^9.7.2",
+    "react-spring": "^9.7.3",
     "react-typography": "^0.16.23",
     "styled-components": "^6.0.8",
     "typography": "^0.16.24"
