@@ -59,7 +59,7 @@
     "@types/is-ci": "^3.0.0",
     "@types/node": "^20.6.5",
     "@types/react": "^18.2.27",
-    "@types/react-dom": "^18.2.7",
+    "@types/react-dom": "^18.2.15",
     "@types/react-helmet": "^6.1.7",
     "@types/typography": "^0.16.5",
     "glob": "^10.3.7",
