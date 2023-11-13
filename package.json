@@ -52,7 +52,7 @@
     "react-helmet": "^6.1.0",
     "react-spring": "^9.7.3",
     "react-typography": "^0.16.23",
-    "styled-components": "^6.0.8",
+    "styled-components": "^6.1.1",
     "typography": "^0.16.24"
   },
   "devDependencies": {
