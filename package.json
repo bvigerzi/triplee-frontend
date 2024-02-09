@@ -58,7 +58,7 @@
   "devDependencies": {
     "@types/is-ci": "^3.0.4",
     "@types/node": "^20.10.5",
-    "@types/react": "^18.2.27",
+    "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.18",
     "@types/react-helmet": "^6.1.7",
     "@types/typography": "^0.16.5",
