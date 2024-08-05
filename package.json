@@ -18,7 +18,7 @@
     "deploy": "gatsby-plugin-s3 deploy"
   },
   "dependencies": {
-    "@ant-design/icons": "^5.2.6",
+    "@ant-design/icons": "^5.4.0",
     "@deckdeckgo/highlight-code": "^4.4.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-brands-svg-icons": "^6.4.2",
