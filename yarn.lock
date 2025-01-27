@@ -2685,10 +2685,10 @@
   resolved "https://registry.yarnpkg.com/@types/tmp/-/tmp-0.0.33.tgz#1073c4bc824754ae3d10cfab88ab0237ba964e4d"
   integrity sha512-gVC1InwyVrO326wbBZw+AO3u2vRXz/iRWq9jYhpG4W8LXyIgDv3ZmcLQ5Q4Gs+gFMyqx+viFoFT+l3p61QFCmQ==
 
-"@types/typography@^0.16.5":
-  version "0.16.5"
-  resolved "https://registry.yarnpkg.com/@types/typography/-/typography-0.16.5.tgz#eef7d5e0ae0b8585dbc8cf8f94c0adf3ba73c363"
-  integrity sha512-myIk+qB2wN+5gkuX7vNnmipWc2u8F/HFvPHt+u2xUMF6nyUALq9PaU39QGhu5ROxVCOF+VFn2/vRTcoPR01WKQ==
+"@types/typography@^0.16.8":
+  version "0.16.8"
+  resolved "https://registry.yarnpkg.com/@types/typography/-/typography-0.16.8.tgz#8c17dd5f7ea420a22b95fdd413c722b3dd5cd779"
+  integrity sha512-09D81KgUyfAS78u4ZzWUfW9CWv4mrFZX/eu8fc+4J6wbtqDQE66HRKTSCsn3hikKUT8bCXQoyHRAIBPLr/Q0HQ==
 
 "@types/unist@*", "@types/unist@^2.0.0", "@types/unist@^2.0.2", "@types/unist@^2.0.3":
   version "2.0.6"
