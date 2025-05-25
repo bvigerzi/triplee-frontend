@@ -13,6 +13,7 @@ jobs:
         path: 'content/blog'
         repository: ${{ secrets.CONTENT_REPO }}
         token: ${{ secrets.CONTENT_REPO_PAT }}
+        ref: main
     - name: Build Gatsby site
       uses: actions/setup-node@v3
       with:
